@@ -81,7 +81,7 @@ _Don't Forget To Give Star To My Repo🥵_`
         return await removeFile('./temp/'+id);
             } else if (connection === "close" && lastDisconnect && lastDisconnect.error && lastDisconnect.error.output.statusCode != 401) {
                     await delay(10000);
-                    GIFTED_MD_PAIR_CODE();
+                    JAMES_MD_PAIR_CODE();
                 }
             });
         } catch (err) {
@@ -92,6 +92,6 @@ _Don't Forget To Give Star To My Repo🥵_`
          }
         }
     }
-    return await GIFTED_MD_PAIR_CODE()
+    return await JAMES_MD_PAIR_CODE()
 });
 module.exports = router
