@@ -13,19 +13,22 @@ const fs = require("fs-extra");
 const { Boom } = require("@hapi/boom");
 const PORT = process.env.PORT ||  5000
 const MESSAGE = process.env.MESSAGE ||  `
+*_COPY ABOVE SESSION FOR JAMES MD BOT🌹_*
+______________________________________
 ╔════◇
-║ *『 WOW YOU'VE CHOSEN GIFTED-MDv2 』*
-║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
-╚════════════════════════╝
+║ *『 💞THIS IS JAMES MD💞』*
+║ _YOU CAN NOW DEPLOY._
+╚════════════════════╝
 ╔═════◇
-║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com/@giftedtechnexus_
-║❒ *Owner:* _https://wa.me/message/NHCZC5DSOEUXB1_
-║❒ *Repo:* _https://github.com/Giftedmaurice/gifted-mdV2_
-║❒ *WaGroup:* _https://chat.whatsapp.com/L0ctUUVLlsrFYwBHApKfew_
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o_
-║❒ *Plugins:* _https://github.com/Giftedmaurice/gifted-bot-md-plugins_
-╚════════════════════════╝
+║  『••• 🌹INFO🌹 •••』
+║❒ *Owner:* _JAMES
+║❒ *WaGroup:* _https://chat.whatsapp.com/F0x0O4o8reS15D6kVfAChW_
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H_
+║❒ *repo:* _https://github.com/jtechde/james_
+╚══════════════════════╝ 
+_____________________________________
+
+_Don't Forget To Give Star To My Repo🥵_`
 
 `
 
