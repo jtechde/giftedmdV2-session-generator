@@ -1,8 +1,8 @@
 {
-    "name": "QR/Pair code-md",
-    "description": "I'm Web QR by Gifted tech & Excel",
-    "logo": "https://i.ibb.co/HtT3vjm/goku-gif-3.gif",
-    "repository": "https://github.com/Giftedmaurice/giftedmdV2-session-generator",
+    "name": "DEV JAMES GLOBAL",
+    "description": "I'm Web QR by James tech & Excel",
+    "logo": "https://files.catbox.moe/eg2cgb.jpg",
+    "repository": "https://github.com/jtechde/james-session-generator",
     "keywords": ["@Xcelsama"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
@@ -13,7 +13,7 @@
         "required": false 
       },
       "MESSAGE": {
-        "description": "set session id conformation message",
+        "description": "CONNECTED FOLLOW CHANNEL FOR UPDATE",
         "value": "",
         "required": false 
       }
